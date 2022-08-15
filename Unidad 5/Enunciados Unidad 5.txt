@@ -1,0 +1,20 @@
+Ejercicios Unidad 5
+
+Comencemos a practicar con ciclos entonces!
+
+Recordá siempre leer atentamente lo que se pide en la consigna. Las consignas son cada vez más complejas, con lo cual 
+seguramente vayan necesitando más lectura. Es decir, no alcanza con leer la consigna una sola vez para terminar de 
+entender lo que pide. Puede que tengas que leerlas 5, 10, 15 veces o más. No te preocupes, hay que hacerlo!
+
+1. Hacer un programa para mostrar los números del 1 al 10. No se debe realizar ningún pedido de datos.
+
+2. Hacer un programa que solicite el ingreso de 10 números y que muestre el mayor de ellos por pantalla. Solo se debe 
+emitir UN valor por pantalla.
+
+3. Hacer un programa que solicite 20 edades y luego calcule el promedio de edad de aquellas personas mayores a 18 años.
+
+4. Hacer un programa que solicite UN número y luego calcule y emita un cartel aclaratorio si el mismo es primo o no es 
+primo.  Nota: un numero es primo cuando es divisible únicamente por 1 y por sí mismo.
+
+5. Hacer un programa que solicite 20 números y luego emitir por pantalla el máximo de los números pares y el mínimo de 
+los números impares.
