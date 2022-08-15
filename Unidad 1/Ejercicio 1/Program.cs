@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-// Ejercicios 1
+// Ejercicio 1
 // Esta unidad es más teórica introductoria que para ejercitar. Por eso el siguiente ejercicio 
 // va a ser más que nada para que testeemos que el entorno quedó configurado correctamente y 
 // que estamos en condiciones para comenzar a programar.
